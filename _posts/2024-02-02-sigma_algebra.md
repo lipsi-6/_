@@ -74,9 +74,9 @@ $$
 
 > **命题**：可数可加性公理还可表述如下：\\
 > 1.对于任意不交的集合 $A$ 和 $B$，
-> <center>$$\mu(A\cup B)=\mu(A)\cup\mu(B)$$</center>
+> <center>\$$\mu(A\cup B)=\mu(A)\cup\mu(B)$$</center>
 > 2.（可数次可加性公理）对于任意的可测集序列 $$\{A_n\}_{n\geq 0}$$，
-> <center>$$\mu\left(\bigcup_{n\geq 0}A_n\right)\leq\sum_{n\geq 0}\mu(A_n)$$</center>
+> <center>\$$\mu\left(\bigcup_{n\geq 0}A_n\right)\leq\sum_{n\geq 0}\mu(A_n)$$</center>
 
 #### 测度的性质
 * 若 $A\subset B$，则 $\mu(B)=\mu(B\backslash A)\cup\mu(A)$
