@@ -116,13 +116,13 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: "/unpublished-posts-enhancement"
+baseurl: "/_"
 
 # Leancloud configuration, use string constants
 Leancloud:
-  appId: 'example' # fill with your Leancloud appId
-  appKey: 'example' # fill with your Leancloud appKey
-  serverURL: 'example' # fill with your Leancloud serverURL
+  appId: 'baJlwKph7RJ6XoOoh1xJekoZ-gzGzoHsz' # fill with your Leancloud appId
+  appKey: 'thFezeuHUPQcWwuFPXfDh9MK' # fill with your Leancloud appKey
+  serverURL: 'https://bajlwkph.lc-cn-n1-shared.com' # fill with your Leancloud serverURL
   allowRegister: true # allow registration for your website
 
 # ------------ The following options are not recommended to be modified ------------------
