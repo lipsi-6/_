@@ -115,7 +115,7 @@ $$
 \end{cases}
 $$
 
-当 $A$ 和 $\omega$ 都固定时，$\delta_{\omega}(A)=\unicode{x1D7D9}_A(\omega)\mathds{1}$。
+当 $A$ 和 $\omega$ 都固定时，$\delta_{\omega}(A)=\unicode{x1D7D9}_A(\omega)$。
 
 #### *计数测度（Counting Measure）*
 可数的测度空间 $(\Omega,\mathcal F)$ 上的计数测度 $\mu$ 定义为
