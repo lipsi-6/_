@@ -14,9 +14,11 @@ tags:
 【教材】《概率论基础》李贤平；《概率论基础学习指导书》
 <details>
   <summary>作业</summary>
-
-  - 第一次作业
+  <ul>
+    <li>第一次作业</li>
+  </ul>
 </details>
+
 
 
 
@@ -40,4 +42,4 @@ tags:
 
 ### 应用回归分析（已退）
 【成绩】  
-【大纲】
+【大纲】[Syllabus](/assets/files/syl.pdf)
