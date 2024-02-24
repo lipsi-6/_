@@ -42,4 +42,4 @@ tags:
 
 ### 应用回归分析（已退）
 【成绩】  
-【大纲】[Syllabus](/assets/files/syl.pdf)
+【大纲】[Syllabus](/_/assets/files/syl.pdf )
