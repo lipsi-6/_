@@ -35,7 +35,7 @@ tags:
 
 ### 数学模型
 【成绩】作业+期末+论文 25+25+50  
-【主页】<http://scholar.pku.edu.cn/ssh/home>  
+【主页】http://scholar.pku.edu.cn/ssh/home  
 【Email】<sihong@pku.edu.cn>
 
 ### 应用回归分析（已退）
