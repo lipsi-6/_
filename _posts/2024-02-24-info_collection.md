@@ -3,7 +3,9 @@ title: 课程资料
 date: 2024-02-24 15:18:00 +0800
 categories: [未分类]
 tags:
+math: true
 ---
+
 <!--
 -------表格模板-------
 <details open>

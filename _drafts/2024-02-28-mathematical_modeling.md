@@ -5,4 +5,7 @@ categories:
 tags:
 math: true
 ---
-### 2024/02/28 周二
+### 2024/02/28 周三
+$$L\vec x=\lambda D\vec x$$ 广义特征值问题。这里 $$L=B^\mathrm{T}B$$，$$D=\mathrm{diag}\{d1,d2,\dots,d_n\}$$ 
+
+$$\boldsymbol{X}$$
