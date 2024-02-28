@@ -5,8 +5,7 @@ categories:
 tags:
 math: true
 ---
-
-$ \{x\in\mathbb R: x^2-x+1 \lt 0 \} $
+$$ \{x\in\mathbb R: x^2-x+1 \lt 0 \} $$
 
 ### 2024/02/28 周三
 $$L\vec x=\lambda D\vec x$$ 广义特征值问题。这里 $$L=B^\mathrm{T}B$$，$$D=\mathrm{diag}\{d1,d2,\dots,d_n\}$$ 
