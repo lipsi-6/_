@@ -16,7 +16,7 @@ math: true
         <th>日期</th>
         <th>内容</th>
         <th>截止时间</th>
-        <th>是否已提交</th>
+        <th>是否已完成</th>
       </tr>
     </thead>
     <tbody align="center">
@@ -59,7 +59,7 @@ math: true
         <th>日期</th>
         <th>内容</th>
         <th>截止时间</th>
-        <th>是否已提交</th>
+        <th>是否已完成</th>
       </tr>
     </thead>
     <tbody align="center">
@@ -99,7 +99,7 @@ math: true
         <th>日期</th>
         <th>内容</th>
         <th>截止时间</th>
-        <th>是否已提交</th>
+        <th>是否已完成</th>
       </tr>
     </thead>
     <tbody align="center">
@@ -130,7 +130,7 @@ math: true
         <th>日期</th>
         <th>内容</th>
         <th>截止时间</th>
-        <th>是否已提交</th>
+        <th>是否已完成</th>
       </tr>
     </thead>
     <tbody align="center">
@@ -166,7 +166,7 @@ math: true
         <th>日期</th>
         <th>内容</th>
         <th>截止时间</th>
-        <th>是否已提交</th>
+        <th>是否已完成</th>
       </tr>
     </thead>
     <tbody align="center">
@@ -202,7 +202,7 @@ math: true
         <th>日期</th>
         <th>内容</th>
         <th>截止时间</th>
-        <th>是否已提交</th>
+        <th>是否已完成</th>
       </tr>
     </thead>
     <tbody align="center">
