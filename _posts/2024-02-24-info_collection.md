@@ -24,6 +24,13 @@ math: true
   </script>
 </head>
 
+<!--加红-->
+<style>
+    .IndianRed-text {
+        color: IndianRed;
+    }
+</style>
+
 
 <!--
 -------表格模板-------
@@ -52,7 +59,7 @@ math: true
 <table>
   <tr>
     <td rowspan="2">Apple</td>
-    <td>Red</td>
+    <td>IndianRed</td>
   </tr>
   <tr>
     <td>Green</td>
@@ -96,7 +103,7 @@ math: true
 【成绩】作业+期中+期末 2+2+6  
 【主页】<https://www.math.pku.edu.cn/teachers/renyx/Homepage/gll/gll2024.htm>  
 【教材】《概率论基础》李贤平；《概率论基础学习指导书》  
-【作业】每周二课上交
+【作业】<span class="IndianRed-text">每周二课上交</span>
 <details open>
   <summary>作业</summary>
   <table>
@@ -136,7 +143,7 @@ math: true
 【Email】<liping@math.pku.edu.cn>  
 【助教】王啸辰 <xcwang1998@126.com> 电话：13717689550  
 &emsp;&emsp;&emsp;&emsp;杨云帆 <2001110072@pku.edu.cn> 电话：18811058616  
-【作业】周四课间收发作业，延至周日晚
+【作业】<span class="IndianRed-text">周四课间收发作业，延至周日晚</span>
 <details open>
   <summary>作业</summary>
   <table>
@@ -163,7 +170,13 @@ math: true
         <td>2月29日</td>
         <td>P60 10 11 12 8*</td>
         <td>3月7日 周四</td>
-        <td rowspan="2"></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>3月4日</td>
+        <td>P60 13 15 18 14*</td>
+        <td rowspan="2">3月14日 周四</td>
+        <td></td>
       </tr>
     </tbody>
   </table>
@@ -173,7 +186,7 @@ math: true
 【成绩】作业+期中+期末 2+3+5  
 【教材】《常微分方程》  
 【答疑】周五下午3:00-4:00 智华楼425  
-【作业】周一课间收发作业
+【作业】<span class="IndianRed-text">双周周一交作业，<ode_hw24@163.com>，形式为【姓名+学号+第几次作业】</span>
 <details open>
   <summary>作业</summary>
   <table>
@@ -209,7 +222,8 @@ math: true
 ### 数学模型
 【成绩】作业+期末+论文 25+25+50  
 【主页】http://scholar.pku.edu.cn/ssh/home  
-【Email】<sihong@pku.edu.cn>
+【Email】<sihong@pku.edu.cn>  
+【作业】<span class="IndianRed-text">每单周周一课间交；电子版 <s2942181448@163.com></span>
 <details open>
   <summary>作业</summary>
   <table>
@@ -226,7 +240,7 @@ math: true
         <td>2月26日</td>
         <td align="left">1.验算Petersen图上的四个常数值<br>2.请尝试给出求解最小割问题的多项式代价的算法<br>3.请举例说明图割问题在日常生活中的应用</td>
         <td rowspan="2">3月4日 周一</td>
-        <td rowspan="2"></td>
+        <td rowspan="2">是</td>
       </tr>
       <tr>
         <td>2月28日</td>
@@ -278,6 +292,12 @@ math: true
             </li>
           </ul>
         </td>
+      </tr>
+      <tr>
+        <td>3月3日</td>
+        <td>Conway<br>P24 6, P28 4 8, P29 1, P44 14</td>
+        <td>3月15日 周五</td>
+        <td></td>
       </tr>
     </tbody>
   </table>
