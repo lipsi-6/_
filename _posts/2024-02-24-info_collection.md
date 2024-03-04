@@ -170,7 +170,7 @@ math: true
         <td>2月29日</td>
         <td>P60 10 11 12 8*</td>
         <td>3月7日 周四</td>
-        <td></td>
+        <td>是</td>
       </tr>
       <tr>
         <td>3月4日</td>
@@ -215,6 +215,12 @@ math: true
         <td>3月4日 周一</td>
         <td>是</td>
       </tr>
+      <tr>
+        <td>3月4日</td>
+        <td>[2.4]1(2)(4)(6)</td>
+        <td rowspan="2">3月11日 周一</td>
+        <td rowspan="2"></td>
+      </tr>
     </tbody>
   </table>
 </details>
@@ -245,6 +251,12 @@ math: true
       <tr>
         <td>2月28日</td>
         <td>图片</td>
+      </tr>
+      <tr>
+        <td>3月4日</td>
+        <td>图片</td>
+        <td rowspan="3">3月18日 周一</td>
+        <td rowspan="3"></td>
       </tr>
     </tbody>
   </table>
