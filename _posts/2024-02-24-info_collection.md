@@ -99,6 +99,9 @@ math: true
 
 
 
+
+
+
 ### 概率论
 【成绩】作业+期中+期末 2+2+6  
 【主页】<https://www.math.pku.edu.cn/teachers/renyx/Homepage/gll/gll2024.htm>  
@@ -127,6 +130,12 @@ math: true
         <td>习题一 33 36 38 46 47</td>
         <td>3月5日 周二</td>
         <td>是</td>
+      </tr>
+      <tr>
+        <td>3月5日</td>
+        <td>习题二 4 5 7 10 28<br>31 32 42 43 47</td>
+        <td>3月12日</td>
+        <td></td>
       </tr>
     </tbody>
   </table>
@@ -212,14 +221,20 @@ math: true
       <tr>
         <td>2月26日</td>
         <td>[2.3]1(1)(3)(5) 2 3 5 7</td>
-        <td>3月4日 周一</td>
+        <td rowspan="3">3月11日 周一</td>
         <td>是</td>
       </tr>
       <tr>
         <td>3月4日</td>
         <td>[2.4]1(2)(4)(6)</td>
-        <td rowspan="2">3月11日 周一</td>
-        <td rowspan="2"></td>
+        <!--截止日期同上-->
+        <td></td>
+      </tr>
+      <tr>
+        <td>3月6日</td>
+        <td>[2.5]1(1)(3)(5) 2(2)(4) 3</td>
+        <!--截止日期同上-->
+        <td></td>
       </tr>
     </tbody>
   </table>
@@ -288,7 +303,7 @@ math: true
         <td>2月23日</td>
         <td>Conway<br>P4 3, P6 7, P17 5, P20 6 8</td>
         <td>3月8日 周五</td>
-        <td></td>
+        <td>是</td>
       </tr>
       <tr>
         <td>3月1日</td>
@@ -304,6 +319,8 @@ math: true
             </li>
           </ul>
         </td>
+        <td>三月底</td>
+        <td></td>
       </tr>
       <tr>
         <td>3月3日</td>
