@@ -187,6 +187,11 @@ math: true
         <td rowspan="2">3月14日 周四</td>
         <td></td>
       </tr>
+      <tr>
+        <td>3月9日</td>
+        <td></td>
+        <td></td>
+      </tr>
     </tbody>
   </table>
 </details>
@@ -228,13 +233,13 @@ math: true
         <td>3月4日</td>
         <td>[2.4]1(2)(4)(6)</td>
         <!--截止日期同上-->
-        <td></td>
+        <td>是</td>
       </tr>
       <tr>
         <td>3月6日</td>
         <td>[2.5]1(1)(3)(5) 2(2)(4) 3</td>
         <!--截止日期同上-->
-        <td></td>
+        <td>是</td>
       </tr>
     </tbody>
   </table>
@@ -281,12 +286,15 @@ math: true
 【成绩】  
 【主页】<https://www.math.pku.edu.cn/teachers/linw/33110s24.html>  
 【大纲】[Syllabus](/_/assets/files/syl.pdf)  
-【教材】[Seber and Lee](https://dlcenter.lib.tsinghua.edu.cn/Book007.htm "清华大学馆藏目录")
+【教材】[Seber and Lee（暂时不可用）](https://dlcenter.lib.tsinghua.edu.cn/Book007.htm "清华大学馆藏目录")；[新的](https://onlinelibrary.wiley.com/doi/epdf/10.1002/9780471722199)
 
 ### 复变函数
 【成绩】作业+期中+期末 3+3+4  
 【主页】[2024春 复变函数](https://www.math.pku.edu.cn/teachers/lizq/teaching/2024Spring/complex%20variables/course_site.html)  
-【教材】《复变函数简明教程》（伍胜健、谭小江）；[Conway](https://psm73.files.wordpress.com/2009/03/conway.pdf "Functions of One Complex Variable")
+【教材】《复变函数简明教程》（伍胜健、谭小江）；[Conway](https://psm73.files.wordpress.com/2009/03/conway.pdf "Functions of One Complex Variable")  
+【Email】<zli@math.pku.edu.cn>  
+【助教】郭若一 <guoruoyi@pku.edu.cn>  
+&emsp;&emsp;&emsp;&emsp;张奕恺 <1900010636@pku.edu.cn>
 <details open>
   <summary>作业</summary>
   <table>
@@ -326,6 +334,12 @@ math: true
         <td>3月3日</td>
         <td>Conway<br>P24 6, P28 4 8, P29 1, P44 14</td>
         <td>3月15日 周五</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>3月8日</td>
+        <td>Conway<br>P33 6 7 P44 13</td>
+        <td>3月22日</td>
         <td></td>
       </tr>
     </tbody>
