@@ -96,7 +96,7 @@ $$f(\vec y)\geq f(\vec x)+\langle\vec g,\vec y-\vec x\rangle$$
 
 <ul> 
  <li>\(\begin{aligned} 
- \partial\lvert x\rvert=\sgn x= 
+ \partial\lvert x\rvert=\sgn\, x= 
  \begin{cases} 
  \{1\},\quad x&gt;0\\ 
  \{-1\},\quad x&lt;0\\ 
