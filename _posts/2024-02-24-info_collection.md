@@ -135,6 +135,12 @@ math: true
         <td>3月5日</td>
         <td>习题二 4 5 7 10 28<br>31 32 42 43 47</td>
         <td>3月12日</td>
+        <td>是</td>
+      </tr>
+      <tr>
+        <td>3月12日</td>
+        <td>习题三 2 3 6 7 9 12 15</td>
+        <td>3月19日</td>
         <td></td>
       </tr>
     </tbody>
@@ -188,8 +194,9 @@ math: true
         <td></td>
       </tr>
       <tr>
-        <td>3月9日</td>
-        <td></td>
+        <td>3月7日</td>
+        <td>P60 17 19 22 20*</td>
+        <!--上交时间同上-->
         <td></td>
       </tr>
     </tbody>
@@ -241,6 +248,12 @@ math: true
         <!--截止日期同上-->
         <td>是</td>
       </tr>
+      <tr>
+        <td>3月11日</td>
+        <td>[2.6]1 3 4 6 7</td>
+        <td>3月25日</td>
+        <td></td>
+      </tr>
     </tbody>
   </table>
 </details>
@@ -277,6 +290,12 @@ math: true
         <td>图片</td>
         <td rowspan="3">3月18日 周一</td>
         <td rowspan="3"></td>
+      </tr>
+      <tr>
+        <td>3月11日</td>
+        <td>图片</td>
+        <!--截止时间同上-->
+        <td></td>
       </tr>
     </tbody>
   </table>
