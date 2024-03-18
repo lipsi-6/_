@@ -191,13 +191,19 @@ math: true
         <td>3月4日</td>
         <td>P60 13 15 18 14*</td>
         <td rowspan="2">3月14日 周四</td>
-        <td></td>
+        <td>是</td>
       </tr>
       <tr>
         <td>3月7日</td>
         <td>P60 17 19 22 20*</td>
         <!--上交时间同上-->
+        <td>是</td>
+      </tr>
+        <td>3月14日</td>
+        <td>P61 23 28 26*</td>
+        <td>3月21日</td>
         <td></td>
+      <tr>
       </tr>
     </tbody>
   </table>
@@ -261,6 +267,7 @@ math: true
 ### 数学模型
 【成绩】作业+期末+论文 25+25+50  
 【主页】http://scholar.pku.edu.cn/ssh/home  
+【授课内容】之一：<https://arxiv.org/abs/1603.01687>  
 【Email】<sihong@pku.edu.cn>  
 【作业】<span class="IndianRed-text">每单周周一课间交；电子版 <s2942181448@163.com></span>
 <details open>
