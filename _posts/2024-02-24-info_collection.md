@@ -152,6 +152,18 @@ math: true
         <td>3月19日</td>
         <td>是</td>
       </tr>
+      <tr>
+        <td>3月19日</td>
+        <td>习题三 16 18 20<br>21 22 25 26 27</td>
+        <td>3月26日</td>
+        <td>是</td>
+      </tr>
+      <tr>
+        <td>3月26日</td>
+        <td>习题三 29 31 32 36 39 41 45</td>
+        <td>4月2日</td>
+        <td></td>
+      </tr>
     </tbody>
   </table>
 </details>
@@ -212,13 +224,19 @@ math: true
         <td>3月14日</td>
         <td>P61 23 28 26*</td>
         <td>3月21日 周四</td>
-        <td></td>
+        <td>是</td>
       </tr>
       <tr>
         <td>3月18日</td>
-        <td></td>
+        <td>P61 25 27 P139 1 2</td>
         <td rowspan="2">3月28日 周四</td>
-        <td></td>
+        <td>是</td>
+      </tr>
+      <tr>
+        <td>3月21日</td>
+        <td>P139 3 4 6 5*</td>
+        <!--截止时间同上-->
+        <td>余 5</td>
       </tr>
     </tbody>
   </table>
@@ -273,12 +291,24 @@ math: true
         <td>3月11日</td>
         <td>[2.6]1 3 4 6 7</td>
         <td rowspan="3">3月25日</td>
-        <td></td>
+        <td>是</td>
       </tr>
       <tr>
         <td>3月18日</td>
         <td>[3.1]1 2  [3.2]4 5<br>4 不要求 Lh<1</td>
         <!--截止时间同上-->
+        <td>是</td>
+      </tr>
+      <tr>
+        <td>3月20日</td>
+        <td>[3.3]1 2</td>
+        <!--截止时间同上-->
+        <td>是</td>
+      </tr>
+      <tr>
+        <td>3月25日</td>
+        <td>[3.4]1(1) 2 4 6</td>
+        <td rowspan="3">4月8日</td>
         <td></td>
       </tr>
     </tbody>
@@ -334,7 +364,13 @@ math: true
       <tr>
         <td>3月18日</td>
         <td>图片</td>
-        <td rowspan="3">4月1日</td>
+        <td rowspan="2">4月1日</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>3月25日</td>
+        <td>图片</td>
+        <!--截止时间同上-->
         <td></td>
       </tr>
     </tbody>
@@ -399,12 +435,18 @@ math: true
         <td>3月8日</td>
         <td>Conway<br>P33 6 7 P44 13</td>
         <td>3月22日</td>
-        <td></td>
+        <td>是</td>
       </tr>
       <tr>
         <td>第四次</td>
         <td>Conway<br>P55 8 15 25</td>
         <td>3月29日</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>第五次</td>
+        <td>Conway<br>P67 7 19 23 P74 4</td>
+        <td>4月3日</td>
         <td></td>
       </tr>
     </tbody>
