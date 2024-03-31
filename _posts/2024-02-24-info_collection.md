@@ -238,6 +238,12 @@ math: true
         <!--截止时间同上-->
         <td>余 5</td>
       </tr>
+      <tr>
+        <td>3月28日</td>
+        <td>P140 7 8 11 10*</td>
+        <td>未知</td>
+        <td></td>
+      </tr>
     </tbody>
   </table>
 </details>
@@ -441,12 +447,18 @@ math: true
         <td>第四次</td>
         <td>Conway<br>P55 8 15 25</td>
         <td>3月29日</td>
-        <td></td>
+        <td>是</td>
       </tr>
       <tr>
         <td>第五次</td>
         <td>Conway<br>P67 7 19 23 P74 4</td>
         <td>4月3日</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>第六次</td>
+        <td>Conway<br>P80 1 3 4 10 P83 1</td>
+        <td>4月12日</td>
         <td></td>
       </tr>
     </tbody>
