@@ -115,7 +115,8 @@ math: true
 【成绩】作业+期中+期末 2+2+6  
 【主页】<https://www.math.pku.edu.cn/teachers/renyx/Homepage/gll/gll2024.htm>  
 【教材】《概率论基础》李贤平；《概率论基础学习指导书》  
-【作业】<span class="IndianRed-text">每周二课上交</span>
+【作业】<span class="IndianRed-text">每周二课上交</span>  
+【期中考试】<span class="IndianRed-text">2024年04月09日上午10:10-12:00，地点：理教 303</span>
 <details open>
   <summary>作业</summary>
   <table>
@@ -162,7 +163,7 @@ math: true
         <td>3月26日</td>
         <td>习题三 29 31 32 36 39 41 45</td>
         <td>4月2日</td>
-        <td></td>
+        <td>是</td>
       </tr>
     </tbody>
   </table>
@@ -179,7 +180,8 @@ math: true
 【Email】<liping@math.pku.edu.cn>  
 【助教】王啸辰 <xcwang1998@126.com> 电话：13717689550  
 &emsp;&emsp;&emsp;&emsp;杨云帆 <2001110072@pku.edu.cn> 电话：18811058616  
-【作业】<span class="IndianRed-text">周四课间收发作业，延至周日晚</span>
+【作业】<span class="IndianRed-text">周四课间收发作业，延至周日晚</span>  
+【期中考试】<span class="IndianRed-text">4月11日</span>
 <details open>
   <summary>作业</summary>
   <table>
@@ -241,6 +243,12 @@ math: true
       <tr>
         <td>3月28日</td>
         <td>P140 7 8 11 10*</td>
+        <td>未知</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>4月1日</td>
+        <td>P140 12 13 15 16*</td>
         <td>未知</td>
         <td></td>
       </tr>
@@ -317,6 +325,12 @@ math: true
         <td rowspan="3">4月8日</td>
         <td></td>
       </tr>
+      <tr>
+        <td>4月1日</td>
+        <td>[3.5]1 [3.6]1 2 3</td>
+        <!--截止时间同上-->
+        <td></td>
+      </tr>
     </tbody>
   </table>
 </details>
@@ -371,12 +385,18 @@ math: true
         <td>3月18日</td>
         <td>图片</td>
         <td rowspan="2">4月1日</td>
-        <td></td>
+        <td>是</td>
       </tr>
       <tr>
         <td>3月25日</td>
         <td>图片</td>
         <!--截止时间同上-->
+        <td>是</td>
+      </tr>
+      <tr>
+        <td>4月1日</td>
+        <td>图片</td>
+        <td rowspan="2">4月15日</td>
         <td></td>
       </tr>
     </tbody>
@@ -395,7 +415,8 @@ math: true
 【教材】《复变函数简明教程》（伍胜健、谭小江）；[Conway](https://psm73.files.wordpress.com/2009/03/conway.pdf "Functions of One Complex Variable")  
 【Email】<zli@math.pku.edu.cn>  
 【助教】郭若一 <guoruoyi@pku.edu.cn>  
-&emsp;&emsp;&emsp;&emsp;张奕恺 <1900010636@pku.edu.cn>
+&emsp;&emsp;&emsp;&emsp;张奕恺 <1900010636@pku.edu.cn>  
+【期中考试】<span class="IndianRed-text">第九周周三（4月17日）随堂期中考，考试范围到第七周的教学内容</span>
 <details open>
   <summary>作业</summary>
   <table>
@@ -453,7 +474,7 @@ math: true
         <td>第五次</td>
         <td>Conway<br>P67 7 19 23 P74 4</td>
         <td>4月3日</td>
-        <td></td>
+        <td>是</td>
       </tr>
       <tr>
         <td>第六次</td>
