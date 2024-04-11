@@ -260,7 +260,8 @@ math: true
 【成绩】作业+期中+期末 2+3+5  
 【教材】《常微分方程》  
 【答疑】周五下午3:00-4:00 智华楼425  
-【作业】<span class="IndianRed-text">双周周一交作业，<ode_hw24@163.com>，形式为【姓名+学号+第几次作业】</span>
+【作业】<span class="IndianRed-text">双周周一交作业，<ode_hw24@163.com>，形式为【姓名+学号+第几次作业】</span>  
+【期中考试】<span class="IndianRed-text">4月17日下午 3:10-5:00；地点：一教 201/303</span>
 <details open>
   <summary>作业</summary>
   <table>
@@ -328,6 +329,12 @@ math: true
       <tr>
         <td>4月1日</td>
         <td>[3.5]1 [3.6]1 2 3</td>
+        <!--截止时间同上-->
+        <td></td>
+      </tr>
+      <tr>
+        <td>4月3日</td>
+        <td>[4.2]1 3</td>
         <!--截止时间同上-->
         <td></td>
       </tr>
