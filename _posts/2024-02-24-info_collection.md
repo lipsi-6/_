@@ -324,19 +324,19 @@ math: true
         <td>3月25日</td>
         <td>[3.4]1(1) 2 4 6</td>
         <td rowspan="3">4月8日</td>
-        <td></td>
+        <td>是</td>
       </tr>
       <tr>
         <td>4月1日</td>
         <td>[3.5]1 [3.6]1 2 3</td>
         <!--截止时间同上-->
-        <td></td>
+        <td>是</td>
       </tr>
       <tr>
         <td>4月3日</td>
         <td>[4.2]1 3</td>
         <!--截止时间同上-->
-        <td></td>
+        <td>是</td>
       </tr>
     </tbody>
   </table>
@@ -404,6 +404,12 @@ math: true
         <td>4月1日</td>
         <td>图片</td>
         <td rowspan="2">4月15日</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>4月10日</td>
+        <td>图片</td>
+        <td>未知</td>
         <td></td>
       </tr>
     </tbody>
@@ -487,6 +493,12 @@ math: true
         <td>第六次</td>
         <td>Conway<br>P80 1 3 4 10 P83 1</td>
         <td>4月12日</td>
+        <td>是</td>
+      </tr>
+      <tr>
+        <td>第七次</td>
+        <td>Conway<br>P87 5 8 9 P99 1 4</td>
+        <td>4月19日</td>
         <td></td>
       </tr>
     </tbody>
