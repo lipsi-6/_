@@ -243,14 +243,14 @@ math: true
       <tr>
         <td>3月28日</td>
         <td>P140 7 8 11 10*</td>
-        <td>未知</td>
-        <td></td>
+        <td rowspan="2">4月18日</td>
+        <td>是</td>
       </tr>
       <tr>
         <td>4月1日</td>
         <td>P140 12 13 15 16*</td>
-        <td>未知</td>
-        <td></td>
+        <!--截止时间同上-->
+        <td>是</td>
       </tr>
     </tbody>
   </table>
@@ -338,6 +338,12 @@ math: true
         <!--截止时间同上-->
         <td>是</td>
       </tr>
+      <tr>
+        <td>4月8日</td>
+        <td>[4.3]1 3 4</td>
+        <td>4月22日</td>
+        <td></td>
+      </tr>
     </tbody>
   </table>
 </details>
@@ -403,8 +409,8 @@ math: true
       <tr>
         <td>4月1日</td>
         <td>图片</td>
-        <td rowspan="2">4月15日</td>
-        <td></td>
+        <td>4月15日</td>
+        <td>是</td>
       </tr>
       <tr>
         <td>4月10日</td>
@@ -504,3 +510,4 @@ math: true
     </tbody>
   </table>
 </details>
+
