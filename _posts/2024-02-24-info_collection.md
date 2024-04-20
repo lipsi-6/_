@@ -165,6 +165,12 @@ math: true
         <td>4月2日</td>
         <td>是</td>
       </tr>
+      <tr>
+        <td>4月16日</td>
+        <td>习题四 5 6 13 16 17 20 24 27 28</td>
+        <td>4月24日</td>
+        <td></td>
+      </tr>
     </tbody>
   </table>
 </details>
@@ -251,6 +257,18 @@ math: true
         <td>P140 12 13 15 16*</td>
         <!--截止时间同上-->
         <td>是</td>
+      </tr>
+      <tr>
+        <td>4月15日</td>
+        <td>P141 17 18 20 24*</td>
+        <td rowspan="2">4月25日</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>4月18日</td>
+        <td>P142 21 22 25 26*</td>
+        <!--截止时间同上-->
+        <td></td>
       </tr>
     </tbody>
   </table>
@@ -341,7 +359,13 @@ math: true
       <tr>
         <td>4月8日</td>
         <td>[4.3]1 3 4</td>
-        <td>4月22日</td>
+        <td rowspan="2">4月22日</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>4月15日</td>
+        <td>[5.1]1 2 4 5</td>
+        <!--截止时间同上-->
         <td></td>
       </tr>
     </tbody>
@@ -415,7 +439,7 @@ math: true
       <tr>
         <td>4月10日</td>
         <td>图片</td>
-        <td>未知</td>
+        <td>本该4月15日交</td>
         <td></td>
       </tr>
     </tbody>
@@ -505,7 +529,7 @@ math: true
         <td>第七次</td>
         <td>Conway<br>P87 5 8 9 P99 1 4</td>
         <td>4月19日</td>
-        <td></td>
+        <td>是</td>
       </tr>
     </tbody>
   </table>
