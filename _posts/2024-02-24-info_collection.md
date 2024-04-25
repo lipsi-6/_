@@ -168,7 +168,13 @@ math: true
       <tr>
         <td>4月16日</td>
         <td>习题四 5 6 13 16 17 20 24 27 28</td>
-        <td>4月24日</td>
+        <td>4月23日</td>
+        <td>是</td>
+      </tr>
+      <tr>
+        <td>第10周</td>
+        <td>习题四 12 30 31 32 33 44 46</td>
+        <td>5月7日</td>
         <td></td>
       </tr>
     </tbody>
@@ -262,12 +268,18 @@ math: true
         <td>4月15日</td>
         <td>P141 17 18 20 24*</td>
         <td rowspan="2">4月25日</td>
-        <td></td>
+        <td>是</td>
       </tr>
       <tr>
         <td>4月18日</td>
         <td>P142 21 22 25 26*</td>
         <!--截止时间同上-->
+        <td>是</td>
+      </tr>
+      <tr>
+        <td>4月25日</td>
+        <td></td>
+        <td>5月9日</td>
         <td></td>
       </tr>
     </tbody>
@@ -360,12 +372,18 @@ math: true
         <td>4月8日</td>
         <td>[4.3]1 3 4</td>
         <td rowspan="2">4月22日</td>
-        <td></td>
+        <td>是</td>
       </tr>
       <tr>
         <td>4月15日</td>
         <td>[5.1]1 2 4 5</td>
         <!--截止时间同上-->
+        <td>是</td>
+      </tr>
+      <tr>
+        <td>4月22日</td>
+        <td>[5.2]1(1)(3)(6)<br>2(1) 4</td>
+        <td>5月6日</td>
         <td></td>
       </tr>
     </tbody>
@@ -439,7 +457,13 @@ math: true
       <tr>
         <td>4月10日</td>
         <td>图片</td>
-        <td>本该4月15日交</td>
+        <td>（本该4月15日交）<br>5月13日</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>4月22日</td>
+        <td>图片</td>
+        <td>5月13日</td>
         <td></td>
       </tr>
     </tbody>
