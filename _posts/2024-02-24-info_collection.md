@@ -175,7 +175,7 @@ math: true
         <td>第10周</td>
         <td>习题四 12 30 31 32 33 44 46</td>
         <td>5月7日</td>
-        <td></td>
+        <td>是</td>
       </tr>
     </tbody>
   </table>
