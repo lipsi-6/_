@@ -278,7 +278,7 @@ math: true
       </tr>
       <tr>
         <td>4月25日</td>
-        <td></td>
+        <td>P143 28 29* P219 1 2</td>
         <td>5月9日</td>
         <td></td>
       </tr>
@@ -384,7 +384,7 @@ math: true
         <td>4月22日</td>
         <td>[5.2]1(1)(3)(6)<br>2(1) 4</td>
         <td>5月6日</td>
-        <td></td>
+        <td>是</td>
       </tr>
     </tbody>
   </table>
@@ -553,6 +553,12 @@ math: true
         <td>第七次</td>
         <td>Conway<br>P87 5 8 9 P99 1 4</td>
         <td>4月19日</td>
+        <td>是</td>
+      </tr>
+      <tr>
+        <td>第八次</td>
+        <td>Conway<br>P111 7 9 13 15<br>P121 1(a)(c) 2(a)(c)(h) 3<br>P126 2 4 9</td>
+        <td>5月8日</td>
         <td>是</td>
       </tr>
     </tbody>
