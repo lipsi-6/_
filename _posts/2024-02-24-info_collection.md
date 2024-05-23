@@ -177,6 +177,24 @@ math: true
         <td>5月7日</td>
         <td>是</td>
       </tr>
+      <tr>
+        <td>第12周</td>
+        <td>习题四 47 48 56 57 58 59</td>
+        <td>5月14日</td>
+        <td>是</td>
+      </tr>
+      <tr>
+        <td>第13周</td>
+        <td>习题五 4 6<br>26(2)(7)(8)(9)(10)(11)<br>27 28</td>
+        <td>5月21日</td>
+        <td>是</td>
+      </tr>
+      <tr>
+        <td>第14周</td>
+        <td>习题五 24 25 40 41 45 47</td>
+        <td>5月28日</td>
+        <td></td>
+      </tr>
     </tbody>
   </table>
 </details>
@@ -280,7 +298,13 @@ math: true
         <td>4月25日</td>
         <td>P143 28 29* P219 1 2</td>
         <td>5月9日</td>
-        <td></td>
+        <td>是</td>
+      </tr>
+      <tr>
+        <td>5月9日</td>
+        <td>P220 3 4 5 6*</td>
+        <td>5月23日</td>
+        <td>是</td>
       </tr>
     </tbody>
   </table>
@@ -386,6 +410,24 @@ math: true
         <td>5月6日</td>
         <td>是</td>
       </tr>
+      <tr>
+        <td>5月13日</td>
+        <td>[5.3]1(1)(3)(5)(7)(4)<br>2(1)(3) 3 4 5</td>
+        <td rowspan="2">5月20日</td>
+        <td>是</td>
+      </tr>
+      <tr>
+        <td>5月15日</td>
+        <td>[6.1]1</td>
+        <!--截止时间同上-->
+        <td>是</td>
+      </tr>
+      <tr>
+        <td>5月20日</td>
+        <td>[7.1]1~7</td>
+        <td rowspan="2">6月3日</td>
+        <td></td>
+      </tr>
     </tbody>
   </table>
 </details>
@@ -456,14 +498,26 @@ math: true
       </tr>
       <tr>
         <td>4月10日</td>
-        <td>图片</td>
-        <td>（本该4月15日交）<br>5月13日</td>
-        <td></td>
+        <td>图片（本该4月15日交）</td>
+        <td rowspan="3">5月13日</td>
+        <td>是</td>
       </tr>
       <tr>
         <td>4月22日</td>
         <td>图片</td>
+        <!--截止时间同上-->
+        <td>是</td>
+      </tr>
+      <tr>
+        <td>5月6日</td>
+        <td>图片</td>
+        <!--截止时间同上-->
+        <td>是</td>
+      </tr>
+      <tr>
         <td>5月13日</td>
+        <td>图片</td>
+        <td>5月27日</td>
         <td></td>
       </tr>
     </tbody>
@@ -559,6 +613,12 @@ math: true
         <td>第八次</td>
         <td>Conway<br>P111 7 9 13 15<br>P121 1(a)(c) 2(a)(c)(h) 3<br>P126 2 4 9</td>
         <td>5月8日</td>
+        <td>是</td>
+      </tr>
+      <tr>
+        <td>第九次</td>
+        <td>Conway<br>P150 5 6 7 P217 4 P221 3</td>
+        <td>5月24日</td>
         <td>是</td>
       </tr>
     </tbody>
