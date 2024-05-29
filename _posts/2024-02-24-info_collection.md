@@ -193,7 +193,7 @@ math: true
         <td>第14周</td>
         <td>习题五 24 25 40 41 45 47</td>
         <td>5月28日</td>
-        <td></td>
+        <td>是</td>
       </tr>
     </tbody>
   </table>
