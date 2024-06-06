@@ -195,6 +195,12 @@ math: true
         <td>5月28日</td>
         <td>是</td>
       </tr>
+      <tr>
+        <td>第15周</td>
+        <td>习题五 12 17 18 19 21 23 31 52</td>
+        <td>不交</td>
+        <td></td>
+      </tr>
     </tbody>
   </table>
 </details>
@@ -425,7 +431,19 @@ math: true
       <tr>
         <td>5月20日</td>
         <td>[7.1]1~7</td>
-        <td rowspan="2">6月3日</td>
+        <td rowspan="3">6月3日</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>5月27日</td>
+        <td>[7.2]1(1) 2 3 4</td>
+        <!--截止时间同上-->
+        <td></td>
+      </tr>
+      <tr>
+        <td>5月29日</td>
+        <td>[7.4]1 2 3 4</td>
+        <!--截止时间同上-->
         <td></td>
       </tr>
     </tbody>
@@ -438,7 +456,7 @@ math: true
 【授课内容】之一：<https://arxiv.org/abs/1603.01687>  
 【Email】<sihong@pku.edu.cn>  
 【作业】<span class="IndianRed-text">每单周周一课间交；电子版 <s2942181448@163.com></span>
-<details open>
+<details>
   <summary>作业</summary>
   <table>
     <thead align="center">
@@ -518,7 +536,7 @@ math: true
         <td>5月13日</td>
         <td>图片</td>
         <td>5月27日</td>
-        <td></td>
+        <td>是</td>
       </tr>
     </tbody>
   </table>
@@ -620,6 +638,12 @@ math: true
         <td>Conway<br>P150 5 6 7 P217 4 P221 3</td>
         <td>5月24日</td>
         <td>是</td>
+      </tr>
+      <tr>
+        <td>第十次</td>
+        <td>Conway<br>P154 4 7 P163 1 4 9</td>
+        <td>6月7日</td>
+        <td></td>
       </tr>
     </tbody>
   </table>
